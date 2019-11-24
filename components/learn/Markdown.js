@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDXProvider } from '@mdx-js/tag';
+import { MDXProvider } from '@mdx-js/react';
 // import dynamic from 'next/dynamic';
 
 // const Highlight = dynamic(import('react-highlight'), {

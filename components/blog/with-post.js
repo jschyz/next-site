@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import { MDXProvider } from '@mdx-js/tag';
+import { MDXProvider } from '@mdx-js/react';
 import formatDate from 'date-fns/format';
 import { useAmp } from 'next/amp';
 
